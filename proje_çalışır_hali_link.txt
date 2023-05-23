@@ -1,0 +1,2 @@
+colab üzerinde çalışır hali için linke gidebilirsiniz .
+https://colab.research.google.com/drive/1umqtYiuiWlPXgUXWQj2dTX6bmSyNirtk?usp=sharing
