@@ -1,0 +1,11 @@
+# rar dosyasını açmak için gerekli kütüphane 
+!pip install patool
+
+#rar dosyamız 
+import patoolib
+patoolib.extract_archive("kod_dosyası-ilyasdemir.rar")
+
+#bu aşamadan sonra dosyanın içine girerek play python kütüphanesini çalıştırmamız yeterli .
+
+# colab için kullanılan kod : cd /content/kod_dosyası-ilyasdemir
+
